@@ -1,0 +1,14 @@
+.relebtn {
+	width: 300px;
+	height: 100px;
+	border: 1px solid #000;
+	display: block;
+}
+
+.relebtn.vypnuto {
+	background-color: #e33;
+}
+
+.relebtn.zapnuto {
+	background-color: #3e3;
+}
